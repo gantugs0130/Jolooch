@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394801302672",
+    "project_id": "jolooch-94173",
+    "storage_bucket": "jolooch-94173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394801302672:android:6c87f16a570edac719dc15",
+        "android_client_info": {
+          "package_name": "mn.jolooch.hackum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394801302672-i5lardelqjodrnf036534d3m61u51i2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjADB1hrImyubLnYgkQIdl1tGY9O3uNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394801302672-i5lardelqjodrnf036534d3m61u51i2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
